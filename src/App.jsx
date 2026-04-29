@@ -192,7 +192,9 @@ export default function App() {
             Contact me on my Gmail Account.
           </p>
           <a 
-            href="mailto:legriarovianne@gmail.com" 
+            href="https://mail.google.com/mail/?view=cm&fs=1&to=legriarovianne@gmail.com&su=Portfolio%20Inquiry" 
+            target="_blank"
+            rel="noopener noreferrer"
             className="inline-flex items-center gap-2 px-6 py-3 bg-gradient-to-r from-violet-500 to-fuchsia-500 rounded-lg font-medium hover:opacity-90 transition-opacity"
           >
             <MailIcon />
